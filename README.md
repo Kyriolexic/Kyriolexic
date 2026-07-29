@@ -15,15 +15,13 @@
 </td>
 <!--TEXT-->
 <td avalign="bottom">
-  <p align="left">
-ᵀʰᵉ ᶠⁱʳˢᵗ ᵉᵛᵉʳ ᵐᵃˢˢ ʷᵃˢ ᵃ ʳᵉˢᵘˡᵗ ᵒᶠ ᵗʰᵉ ˢʸᵐᵐᵉᵗʳʸ ᵒᶠ ᵗʰᵉ ᵘⁿⁱᵛᵉʳˢᵉ ʷᵃˢ ᵇʳᵒᵏᵉⁿ, ᶜʳᵉᵃᵗⁱⁿᵍ ᵃⁿ ᵉᵛᵉⁿᵗ, ᵃⁿᵈ ᵗʰᵉ ᵉᵛᵉⁿᵗᵘᵃˡ ᵒᶠ ⁱⁿᵗᵉʳᵃᶜᵗⁱᵒⁿˢ ᵒᶠ ᵗʰᵉˢᵉ ᶜᵒᵘⁿᵗˡᵉˢˢ ᵉᵛᵉⁿᵗˢ ⁱˢ ᵗʰᵉ ʷᵒʳˡᵈ ʷᵉ ⁿᵒʷ ˡⁱᵛᵉ ⁱⁿ.  
+  <p small> The first ever mass was a result of the symmetry of the universe was broken, creating an event, and the eventual of interactions of these countless events is the world we now live in.  
 
-ˢᵒ, ⁱᶠ ᵗʰᵉʳᵉ ⁱˢ ⁿᵒ ᵐᵃˢˢ, ᵗʰᵉⁿ ᵗʰᵉ ʷᵒʳˡᵈ ʷᵉ ˡⁱᵛᵉ ⁱⁿ ᵈⁱˢᵃᵖᵖᵉᵃʳˢ?  
+so, if there is no mass, then the world we live in disappears?  
 
-ᴴᵒʷ ʷᵃˢ ᵐᵃˢˢ ᶜʳᵉᵃᵗᵉᵈ ⁱⁿ ᵗʰᵉ ᶠⁱʳˢᵗ ᵖˡᵃᶜᵉ? ᴰⁱᵈ ⁱᵗ ᶜᵒⁱⁿᶜⁱᵈᵉⁿᵗᵃˡˡʸ ʷᵉⁿᵗ "ᵖᵒᵒᶠ!" ᴬⁿᵈ ᶜᵃᵐᵉ ᵗᵒ ᵗᵒ ᵇᵉ ᵒʳ "ˡᵉᵗ ᵗʰᵉʳᵉ ᵇᵉ ᵐᵃˢˢ" ˢᵒᵐᵉᵗʰⁱⁿᵍ ˡⁱᵏᵉ ᵗʰᵃᵗ?  
+How was mass created in the first place? Did it coincidentally went "poof!" And came to to be or "let there be mass" something like that?  
 
-ᵂⁱᵗʰ ᵃⁿ ᵒᵐⁿⁱˢᶜⁱᵉⁿᵗ ᵛⁱᵉʷᵖᵒⁱⁿᵗ,  ᵖᵉʳʰᵃᵖˢ ⁱᵗ ⁱˢ "ᵉˣⁱˢᵗᵉⁿᶜᵉ" ⁱᵗˢᵉˡᶠ. ᵀʰᵉ ᵖʳᵒᵒᶠ ᵒᶠ ᵉˣⁱˢᵗᵉⁿᶜᵉ.
-    </p>
+With an omniscient viewpoint,  perhaps it is "existence" itself. The proof of existence. </small> </p>
   <p align="center">
 
 </td>
