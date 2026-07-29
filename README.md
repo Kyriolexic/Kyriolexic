@@ -4,9 +4,12 @@
 <table align="center">
 <tr>
 
-<td valign="top" width="310">
-<br><br>
+<td valign="center" width="310">
+  <p align="center">
 <img width="735" height="480" alt="Image" src="https://github.com/user-attachments/assets/2dc49909-71c0-49d1-9f0a-dccff4b99c76" />
+<img width="112" height="73" alt="Image" src="https://github.com/user-attachments/assets/3eddea87-f0e7-483f-ba2b-b43846854a8a" />
+  </p>
+</td>
   
 </td>
 <!--TEXT-->
