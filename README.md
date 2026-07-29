@@ -1,6 +1,3 @@
-
-
-
 </div>
 <!--TABLE-->
 <!--LEFT PICTURES-->
