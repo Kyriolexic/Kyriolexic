@@ -3,7 +3,7 @@
 <p align="center">
 <img width="735" height="480" alt="Image" src="https://github.com/user-attachments/assets/2dc49909-71c0-49d1-9f0a-dccff4b99c76" />
   
-<wbr> <p align=center> [新](https://kyriolexic.atabook.org/)𝙱𝚘𝚘𝚔ﾠﾠᨳଓﾠﾠ[𝚙𝚛𝚗𝚜.𝚌𝚌](https://pronouns.cc/@Kyriolexic)
+<wbr> <p align=center> [𝚂𝚙𝚊𝚌𝚎](https://spacehey.com/kyriolexic)𝙷𝚎𝚢ﾠﾠᨳଓﾠﾠ[𝚙𝚛𝚗𝚜.𝚌𝚌](https://pronouns.cc/@Kyriolexic)
 
 </wbr>
   <p align="justify">
