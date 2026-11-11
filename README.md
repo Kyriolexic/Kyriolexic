@@ -10,7 +10,7 @@
 <wbr> <p align=center> [𝚂𝚙𝚊𝚌𝚎](https://spacehey.com/kyriolexic)𝙷𝚎𝚢ﾠﾠᨳଓﾠﾠ[𝚙𝚛𝚗𝚜.𝚌𝚌](https://pronouns.cc/@Kyriolexic)
 
 </wbr>
-  <p align="center">
+  <p align="justify">
     <br>The first ever mass was a result of the symmetry of the universe was broken, creating an event,<br>
     <br>and the eventual of interactions of these countless events is the world we now live in.<br>
     <br>So, if there is no mass, then the world we live in disappears? How was mass created in the first place?<br>
